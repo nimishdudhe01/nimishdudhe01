@@ -11,4 +11,4 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and Final Year CSE Student.
 - 📫 You can reach out to me at my [Mail](mailto:20cs3043@rgipt.ac.in) OR [LinkedIn](https://www.linkedin.com/in/nimishdudhe)
 - ⚡  I can play guitar and sing along if that helps my resume get selected.
 
-![](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/99870779)
+![eJPT Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/99870779) ![ICCA Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/96464527)
