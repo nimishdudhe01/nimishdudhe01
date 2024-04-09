@@ -13,7 +13,7 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and Final Year CSE Student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nimishdudhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/nimishdudhe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" /></a>
 <a href="https://secoverflowshanks.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" /></a>
 <a href="https://www.tryhackme.com/p/SecOvfShanks"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="40"/></a>
 </p>
@@ -32,7 +32,20 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and Final Year CSE Student.
 <a align="center"><img src="https://static-00.iconduck.com/assets.00/linux-icon-423x512-nh8xp32g.png" alt="Linux" height="50"/></a>
 <a align="center"><img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" height="50"/></a>
 <a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/2048px-Git-icon-white.svg.png" alt="GitHub" height=50/></a> 
-
+</p>
+<h3 align="left">Cyber Security Frameworks/Tools:</h3>
+<p align="left">
+  <a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/250px-Kali_Linux_2.0_wordmark.svg.png" alt="Kali Linux" height="50"></a>
+  <a align="center"><img src="https://www.metasploit.com/includes/images/favicon.ico" alt="Metasploit" height="50"></a>
+  <a align="center"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="NMAP" height="50"></a>
+  <a align="center"><img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="John The Ripper" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="Hashcat" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/zaproxy/images/zaproxy-logo.svg" alt="OWASP ZAP" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="Gobuster" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="WPScan" height="60"></a>
+  <a align="center"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" height="60"></a>
 </p>
 
 
