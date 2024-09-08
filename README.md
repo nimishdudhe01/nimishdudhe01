@@ -3,7 +3,7 @@
 **nimishdudhe01/nimishdudhe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-Hello, Nimish Here, I am a Cyber Security enthusiast and Final Year CSE Student.
+Hello, Nimish Here, I am a Cyber Security enthusiast and CSE Graduate.
 
 - 🔭 I’m currently working on an application using FastAPI to make a tool for Cyber Security, I will also be developing a CLI tool for it.
 - 🌱 Currently learning git, GitHub, docker, and API Development.
