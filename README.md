@@ -9,7 +9,7 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and CSE Graduate.
 - 🌱 Currently learning git, GitHub, docker, and API Development.
 - 🔍 I’m searching for Internship Or Job, Something in the Cyber Security Field, or DevOps.
 - 📫 You can reach out to me at my [Mail](mailto:20cs3043@rgipt.ac.in) OR [LinkedIn](https://www.linkedin.com/in/nimishdudhe)
-- ⚡  I can play guitar and sing along if that helps my resume get selected.
+- ⚡  I can play guitar and sing along.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
