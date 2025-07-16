@@ -19,6 +19,7 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and CSE Graduate.
 </p>
 
 <h2 align="left">Skills</h2>
+
 <h3 align="left">Programming Languages:</h3>
 <p aligh="left">
 <a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C-Programming" height="50"></a>
@@ -26,13 +27,7 @@ Hello, Nimish Here, I am a Cyber Security enthusiast and CSE Graduate.
 <a align="center"><img src="https://www.svgrepo.com/show/452234/java.svg" alt="Java" height="50"></a>
 <a align="center"><img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Assembly-Language(Linux)" height="50"></a>
 </p>
-<h3 align="left">DevOps:</h3>
-<p align="left">
-<a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt="Bash" height="50"/></a> 
-<a align="center"><img src="https://static-00.iconduck.com/assets.00/linux-icon-423x512-nh8xp32g.png" alt="Linux" height="50"/></a>
-<a align="center"><img src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker" height="50"/></a>
-<a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Git-icon-white.svg/2048px-Git-icon-white.svg.png" alt="GitHub" height=50/></a> 
-</p>
+
 <h3 align="left">Cyber Security Frameworks/Tools:</h3>
 <p align="left">
   <a align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/250px-Kali_Linux_2.0_wordmark.svg.png" alt="Kali Linux" height="50"></a>
